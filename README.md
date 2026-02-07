@@ -15,16 +15,14 @@ HTML - Tailwind CSS - Responsive Design
 text
 
 ## 📱 Screenshots
-![Landing Page](screenshot.png)
+
 
 ## 🎯 Learning Goals Achieved
-✅ Flexbox + CSS Grid layouts
-✅ Mobile-first responsive design (hidden md:flex)
-✅ Hover states (hover:scale-105 transition-all)
-✅ Component patterns (navbar, hero, cards, footer)
-✅ 25+ Tailwind utility classes mastered
-
-text
+ - Flexbox + CSS Grid layouts
+ -  Mobile-first responsive design (hidden md:flex)
+ - Hover states (hover:scale-105 transition-all)
+ - Component patterns (navbar, hero, cards, footer)
+ - 25+ Tailwind utility classes mastered
 
 ## 📋 Tailwind Classes Mastered
 Layout: flex items-center justify-center min-h-screen max-w-6xl mx-auto
@@ -44,20 +42,6 @@ Responsive: hidden md:flex space-x-6
 
 ---
 **Built by Himangshu Sikder**  
-*BCA 3rd Year | Frontend Developer | MAKAUT*  
-[LinkedIn](https://linkedin.com/in/himangshusikder) | [Portfolio](coming-soon)
-
 ---
 
 *Practice project from Tailwind CSS learning roadmap - February 2026*
-Copy → paste into README.md → commit → push.
-
-This shows recruiters:
-
-Clean professional presentation
-
-Technical skills with specific classes listed
-
-Learning journey transparency
-
-Portfolio-ready quality
