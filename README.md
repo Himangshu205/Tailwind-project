@@ -12,10 +12,8 @@ Responsive landing page built during Tailwind CSS learning roadmap for BCA 3rd y
 ## 🛠️ Tech Stack
 HTML - Tailwind CSS - Responsive Design
 
-text
-
 ## 📱 Screenshots
-
+<img width="1323" height="585" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/e2c767a4-34bd-4162-b29f-d458972fc9b5" />
 
 ## 🎯 Learning Goals Achieved
  - Flexbox + CSS Grid layouts
