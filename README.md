@@ -32,3 +32,32 @@ Grid: grid grid-cols-1 md:grid-cols-3 gap-8
 Colors: bg-white bg-blue-500 text-white text-gray-700
 Style: rounded-xl shadow-lg p-8 border hover:scale-102 transition-all
 Responsive: hidden md:flex space-x-6
+
+## 💾 Status
+**Practice project** - not hosted live. Full page screenshot provided.
+
+## 🔮 Next Steps
+- [ ] Deploy to Netlify/Vercel  
+- [ ] Add JavaScript interactivity
+- [ ] Convert to React components
+- [ ] Add to portfolio
+
+---
+**Built by Himangshu Sikder**  
+*BCA 3rd Year | Frontend Developer | MAKAUT*  
+[LinkedIn](https://linkedin.com/in/himangshusikder) | [Portfolio](coming-soon)
+
+---
+
+*Practice project from Tailwind CSS learning roadmap - February 2026*
+Copy → paste into README.md → commit → push.
+
+This shows recruiters:
+
+Clean professional presentation
+
+Technical skills with specific classes listed
+
+Learning journey transparency
+
+Portfolio-ready quality
